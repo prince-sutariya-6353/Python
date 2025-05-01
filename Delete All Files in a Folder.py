@@ -1,6 +1,6 @@
 import os
 
-folder_path = r'/prince'  #your folder path
+folder_path = r'E:\Internship\Python\pro\prince'  #your folder path
 
 for filename in os.listdir(folder_path):
     file_path = os.path.join(folder_path, filename)
