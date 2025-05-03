@@ -3,7 +3,7 @@ text = "Hello, World!"  # str
 
 # Numeric Types
 integer_num = 42        # int
-float_num = 3.1415      # float
+float_num = 3.141      # float
 complex_num = 2 + 3j    # complex
 
 # Boolean Type
