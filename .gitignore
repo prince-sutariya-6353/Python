@@ -1,4 +1,4 @@
 /File handling/.gitignore.txt
-main.py
+* main.py
 .idea/
 
